@@ -187,6 +187,36 @@
           },
           "ruleId": "app-UnusedVariables",
           "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.vaRid"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.vaRid",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "vaRid",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 1
         }
       ],
       "tool": {
