@@ -34,20 +34,20 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 0,
+    "Button1": 4,
     "Host": 0,
-    "Screen1": 0
+    "Screen1": 3
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0085862,
+    "AnalysisLoadTime": 0.0137892,
     "ControlCount": {
       "button": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.3331447
+    "DeserializationLoadTime": 2.0985098
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

@@ -6,7 +6,8 @@ Screen1 As screen:
             Set(varID,2);
             Set(varid,3);
             Set(vArId,4);
-            Set(vaRid,5)
+            Set(vaRid,5);
+            Set(varCheck, "Ok")
         Text: ="Button"
         X: =448
         Y: =300
