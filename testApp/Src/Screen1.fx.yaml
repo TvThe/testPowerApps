@@ -5,7 +5,8 @@ Screen1 As screen:
             =Set(varId,1);
             Set(varID,2);
             Set(varid,3);
-            Set(vArId,4)
+            Set(vArId,4);
+            Set(varCheck, "Ok")
         Text: ="Button"
         X: =448
         Y: =300
