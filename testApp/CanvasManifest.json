@@ -115,7 +115,7 @@
     "Id": "e66cc3d1-7538-4b0e-95a1-dc43d477c834",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "testGit",
     "OriginatingVersion": "1.336",
     "ParserErrorCount": 0,

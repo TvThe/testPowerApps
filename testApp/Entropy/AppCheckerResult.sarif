@@ -43,6 +43,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "App.varid"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.varid",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "varid",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.varID"
                 }
               ],
@@ -84,6 +114,36 @@
               },
               "properties": {
                 "member": "varId",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.vArId"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.vArId",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "vArId",
                 "module": "App",
                 "type": "App"
               }

@@ -3,7 +3,9 @@ Screen1 As screen:
     Button1 As button:
         OnSelect: |-
             =Set(varId,1);
-            Set(varID,2)
+            Set(varID,2);
+            Set(varid,3);
+            Set(vArId,4)
         Text: ="Button"
         X: =448
         Y: =300
