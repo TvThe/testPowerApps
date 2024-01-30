@@ -1,2 +1,11 @@
 Screen1 As screen:
 
+    Button1 As button:
+        OnSelect: |-
+            =Set(varId,1);
+            Set(varID,2)
+        Text: ="Button"
+        X: =448
+        Y: =300
+        ZIndex: =1
+
